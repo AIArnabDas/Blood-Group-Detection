@@ -6,11 +6,11 @@ The work explores the use of fingerprint patterns as a biometric input for predi
 
 ## 📄 Publication
 
-**Chapter 5** — *Frontiers in Engineering, Science and Technology*
+**Chapter 5** - *Frontiers in Engineering, Science and Technology*
 
-**Publisher:** CRC Press / Taylor & Francis
-**Edition:** 1st Edition
-**First Published:** 2026
+**Publisher:** CRC Press / Taylor & Francis  
+**Edition:** 1st Edition  
+**First Published:** 2026  
 **Chapter:** 5
 
 **DOI:** [10.1201/9781042014446-5](https://doi.org/10.1201/9781042014446-5)
